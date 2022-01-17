@@ -1,0 +1,1 @@
+Escribir una funcion que permita calcular una multiplicacion de un arreglo.
